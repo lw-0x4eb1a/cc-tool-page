@@ -1,7 +1,6 @@
 site_author: "老王天天写bug"
 site_name: 滤镜工具
 docs_dir: docs                         
-site_dir: target
 
 nav:
   - 主页: index.md
